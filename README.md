@@ -8,6 +8,4 @@ corpus download from : https://github.com/famrashel/idn-tagged-corpus
 tagset : http://bahasa.cs.ui.ac.id/postag/downloads/Tagset.pdf
 <br>
 <br>
-<center>
 ![Alt text](https://github.com/mrrizal/POS_Tag_Indonesian/blob/master/screenshoot.png?raw=true "screenshoot")
-</center>
