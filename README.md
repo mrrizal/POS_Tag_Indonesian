@@ -2,6 +2,9 @@
 POS Tag for Indonesian language
 <br>
 <br>
+Usage : python3 main.py
+<br>
+<br>
 corpus download from : https://github.com/famrashel/idn-tagged-corpus
 <br>
 <br>
